@@ -1,0 +1,9 @@
+name: SolistiaMobs
+main: fr.hegsis.solistiamobs.Main
+version: 1.0
+author: HegSiS
+commands:
+  spawner:
+    description: Affiche la liste des spawners
+    permission: solistia.spawner
+    permission-message: §cVous n'avez pas accès à la commande !

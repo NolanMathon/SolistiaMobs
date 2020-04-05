@@ -1,0 +1,23 @@
+# Plugin made by HegSiS
+# For Solistia
+
+price:
+  iron_golem2: 150000
+  pig_zombie2: 150000
+  pig_zombie3: 300000
+
+allowed-entities:
+  - COW
+  - SHEEP
+  - PIG
+  - CHICKEN
+  - SKELETON
+  - ZOMBIE
+  - CREEPER
+  - SLIME
+  - ENDERMAN
+  - BLAZE
+  - PIG_ZOMBIE
+  - IRON_GOLEM
+  - WITCH
+  - VILLAGER
